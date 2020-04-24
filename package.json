@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "deploy": "gh-pages -d public, src "
+    "deploy": "gh-pages -d public "
   },
   "author": "Rachit Singhal",
   "license": "MIT",
