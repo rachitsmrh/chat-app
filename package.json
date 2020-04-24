@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "deploy": "gh-pages -d ./public/index.html"
+    "deploy": "gh-pages -d chat-app"
   },
   "author": "Rachit Singhal",
   "license": "MIT",
