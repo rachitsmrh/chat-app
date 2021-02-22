@@ -4,9 +4,9 @@
   "description": "Real time chat app",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
-    "deploy": "gh-pages -d chat-app "
+    "start": "node  origin/src/index.js",
+    "dev": "nodemon origin/src/index.js",
+    "deploy": "gh-pages -d origin "
   },
   "author": "Rachit Singhal",
   "license": "MIT",
